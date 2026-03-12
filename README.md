@@ -2,7 +2,7 @@
 
 <!--
 **JM00NJ/JM00NJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Profil Görüntülenme Sayısı](https://komarev.com/ghpvc/?user=JM00NJ&color=green&style=flat-square)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
