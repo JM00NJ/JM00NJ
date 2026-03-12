@@ -1,8 +1,7 @@
 ## Hi there 👋
-
+![](https://komarev.com/ghpvc/?user=JM00NJ&color=00ff00&style=for-the-badge&label=TARGETS+TRACKED)
 <!--
 **JM00NJ/JM00NJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://komarev.com/ghpvc/?user=JM00NJ&color=00ff00&style=for-the-badge&label=TARGETS+TRACKED)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
