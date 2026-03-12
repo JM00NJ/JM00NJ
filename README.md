@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Profil Görüntülenme Sayısı](https://komarev.com/ghpvc/?user=JM00NJ&color=00ff00&style=for-the-badge&label=GHOST+SIGHTINGS)
+![Profil Görüntülenme Sayısı](https://komarev.com/ghpvc/?user=JM00NJ&color=green&style=flat-square)
 <!--
 **JM00NJ/JM00NJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
