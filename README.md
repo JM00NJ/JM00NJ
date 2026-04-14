@@ -1,15 +1,52 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>+Initializing+jm00nj+kernel...;>+Loading+x64_assembly_modules...;>+Bypassing+EDR_hooks...;>+Welcome+to+the+underground." alt="Typing SVG" />
+</div>
 
-<!--
-**JM00NJ/JM00NJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Whoami
+**`jm00nj@localhost:~$ cat /var/log/identity`**
+
+I am a low-level systems researcher and malware developer focusing on offensive security, operating strictly below the API layer. My research dissects modern detection mechanisms (EDR/NDR) and builds unhooked, zero-dependency solutions in pure x86-64 Assembly. 
+
+- 🔭 **Currently Researching:** In-memory PIC injection, DPCM-RLE hybrid compression, and Falco/Suricata evasion.
+- ⚙️ **Weapon of Choice:** Pure x64 Assembly (Libc-free).
+- 🧠 **Philosophy:** "If it touches the disk, it's already dead."
+
+---
+
+### 🧰 The Arsenal
+
+<div align="center">
+  <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C"/></code>
+  <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux Kernel"/></code>
+  <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/></code>
+  <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash Scripting"/></code>
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="ASM" style="filter: grayscale(100%) invert(100%);"/></code> 
+</div>
+
+---
+
+### 📡 Active Operations & Research
+
+* **[ICMP-Ghost](https://github.com/JM00NJ/ICMP-Ghost-A-Fileless-x64-Assembly-C2-Agent):** A fileless, libc-free x64 Assembly C2 agent utilizing DPCM-RLE hybrid compression and rolling XOR for deep DPI evasion.
+* **[Phantom Loader](https://github.com/JM00NJ/Phantom-Evasion-Loader):** hantom-Evasion-Loader is a standalone, pure x64 Assembly injection engine engineered to minimize the detection surface of modern EDR/XDR solutions and Kernel-level monitors like Falco (eBPF). It leverages advanced techniques such as SROP and Zero-Copy Injection to deliver payloads as a ghost in the machine
+* **[Vesqer-Baremetal-Compressor](https://github.com/JM00NJ/Vesqer-Baremetal-Compressor-DPCM-RLE-Hybrid-Engine):** A standalone DPCM-RLE hybrid compression engine built for strict memory constraints.
+
+---
+
+### 📊 Threat Telemetry
+
+<div align="center">
+  <a href="https://github.com/JM00NJ">
+    <img src="https://github-readme-stats.vercel.app/api?username=JM00NJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vesqer's GitHub Stats" />
+  </a>
+  <a href="https://github.com/JM00NJ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JM00NJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
+</div>
+
+---
+<div align="center">
+  <i>"Operating outside the userland."</i>
+</div>
