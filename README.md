@@ -37,16 +37,14 @@ I am a low-level systems researcher and malware developer focusing on offensive 
 
 ### 📊 Threat Telemetry
 
-<div align="center">
-  <a href="https://github.com/JM00NJ">
-    <img src="https://github-readme-stats.vercel.app/api?username=JM00NJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vesqer's GitHub Stats" />
-  </a>
-  <a href="https://github.com/JM00NJ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JM00NJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JM00NJ&theme=chartreuse_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JM00NJ&theme=chartreuse_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JM00NJ&theme=chartreuse_dark)
 
 ---
+
 <div align="center">
   <i>"Operating outside the userland."</i>
 </div>
