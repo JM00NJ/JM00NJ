@@ -32,7 +32,9 @@ I am a low-level systems researcher and malware developer focusing on offensive 
 * **[ICMP-Ghost](https://github.com/JM00NJ/ICMP-Ghost-A-Fileless-x64-Assembly-C2-Agent):** A fileless, libc-free x64 Assembly C2 agent utilizing DPCM-RLE hybrid compression and rolling XOR for deep DPI evasion.
 * **[Phantom Loader](https://github.com/JM00NJ/Phantom-Evasion-Loader):** hantom-Evasion-Loader is a standalone, pure x64 Assembly injection engine engineered to minimize the detection surface of modern EDR/XDR solutions and Kernel-level monitors like Falco (eBPF). It leverages advanced techniques such as SROP and Zero-Copy Injection to deliver payloads as a ghost in the machine
 * **[Vesqer-Baremetal-Compressor](https://github.com/JM00NJ/Vesqer-Baremetal-Compressor-DPCM-RLE-Hybrid-Engine):** A standalone DPCM-RLE hybrid compression engine built for strict memory constraints.
-
+* **[SHA256-CDP](https://github.com/JM00NJ/SHA256-CDP):** GPU-accelerated SHA-256 rainbow table implementation based on CDP (Cyclic Digit-sum Projection) structural analysis. AMD RX 9070 XT, OpenCL + Vulkan.
+* **[edk2-research](https://github.com/JM00NJ/edk2-research):** EDK2/UEFI research collection — memory map reader, ICMP ping, DXE drivers and beyond. Pure UEFI, no abstractions.
+  
 ---
 
 ### 📊 Threat Telemetry
